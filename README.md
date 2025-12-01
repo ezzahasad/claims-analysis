@@ -14,7 +14,9 @@ seaborn>=0.11.0
 The data files were provided as part of the course module:
 
 ├── STONYBRK_20240531_HEADER.csv
+
 ├── STONYBRK_20240531_LINE.csv
+
 └── STONYBRK_20240531_CODE.csv
 
 - **HEADER:** Claim-level details (providers, payer, place of service)
